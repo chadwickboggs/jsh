@@ -6,7 +6,7 @@ Instruction & Example (OS-X/Apple)
 1. Installation
 
     $ sudo ln -s <your workspace folder>/bin/jsh /usr/local/bin/jsh
-    $ sudo ln -s /opt/workspace/personal/jsh/dist /usr/local/dist
+    $ sudo ln -s <your workspace folder>/dist /usr/local/dist
 
 2. Execution
 
