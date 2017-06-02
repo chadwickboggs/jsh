@@ -1,6 +1,6 @@
 Instruction & Example (OS-X/Apple)
 
-    This program enable shell script to be written in Java with a
+    This program enables shell scripts to be written in Java with a
     "#!/usr/bin/env jsh" shebang.
 
 1. Installation
@@ -15,3 +15,4 @@ Instruction & Example (OS-X/Apple)
     Hello
     6
     HelloWorld
+
