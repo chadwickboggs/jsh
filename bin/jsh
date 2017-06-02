@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+JSHE_HOME=$(dirname $0)/..
+JSHE_JAR="$JSHE_HOME/dist/jsh.jar"
+JAVA_HOME=$(/usr/libexec/java_home --version 9)
+JAVA_CMD=$JAVA_HOME/bin/java
+
+$JAVA_CMD -jar $JSHE_JAR $@
+
+exit $?
